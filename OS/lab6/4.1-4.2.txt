@@ -1,0 +1,2 @@
+driverquery /nh > driv.txt
+sort /r driv.txt

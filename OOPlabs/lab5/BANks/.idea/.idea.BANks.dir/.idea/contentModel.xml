@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\velik\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\velik\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="C:\Users\velik\source\repos\BANks\BANks" t="IncludeRecursive">
+      <e p="Account.cs" t="Include" />
+      <e p="Bank.cs" t="Include" />
+      <e p="BANks.csproj" t="IncludeRecursive" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="ConcreteBuilder.cs" t="Include" />
+      <e p="CreditAccount.cs" t="Include" />
+      <e p="DebitAccount.cs" t="Include" />
+      <e p="Deposit.cs" t="Include" />
+      <e p="IAccount.cs" t="Include" />
+      <e p="IPerson.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="BANks.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Person.cs" t="Include" />
+      <e p="Program.cs" t="Include" />
+      <e p="Trancation.cs" t="Include" />
+    </e>
+  </component>
+</project>

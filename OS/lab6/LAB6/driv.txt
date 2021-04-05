@@ -1,0 +1,232 @@
+
+1394ohci     1394 OHCI Compliant Ho Kernel        20.11.2010 13:01:11   
+ACPI         Драйвер Microsoft ACPI Kernel        20.11.2010 11:37:52   
+AcpiPmi      ACPI Power Meter Drive Kernel        20.11.2010 11:47:55   
+adp94xx      adp94xx                Kernel        06.12.2008 2:59:55    
+adpahci      adpahci                Kernel        01.05.2007 21:29:26   
+adpu320      adpu320                Kernel        28.02.2007 3:03:08    
+AFD          Ancillary Function Dri Kernel        20.11.2010 11:40:00   
+agp440       Intel AGP Bus Filter   Kernel        14.07.2009 3:25:36    
+aic78xx      aic78xx                Kernel        12.04.2006 4:20:11    
+aliide       aliide                 Kernel        14.07.2009 3:11:17    
+amdagp       AMD AGP Bus Filter Dri Kernel        14.07.2009 3:25:36    
+amdide       amdide                 Kernel        14.07.2009 3:11:19    
+AmdK8        AMD K8 Processor Drive Kernel        14.07.2009 3:11:03    
+AmdPPM       AMD Processor Driver   Kernel        14.07.2009 3:11:03    
+amdsata      amdsata                Kernel        19.03.2010 4:08:27    
+amdsbs       amdsbs                 Kernel        20.03.2009 21:35:26   
+amdxata      amdxata                Kernel        19.03.2010 19:19:01   
+AppID        Драйвер AppID          Kernel        20.11.2010 12:29:48   
+arc          arc                    Kernel        25.05.2007 1:31:06    
+arcsas       arcsas                 Kernel        14.01.2009 22:26:37   
+AsyncMac     Драйвер асинхронного н Kernel        14.07.2009 3:54:46    
+atapi        Канал IDE              Kernel        14.07.2009 3:11:15    
+b06bdrv      Broadcom NetXtreme II  Kernel        14.02.2009 1:10:59    
+b57nd60x     Broadcom NetXtreme Gig Kernel        26.04.2009 15:15:34   
+Beep         Beep                   Kernel        14.07.2009 3:45:00    
+blbdrive     blbdrive               Kernel        14.07.2009 3:23:04    
+bowser       Драйвер поддержки брау File System   14.07.2009 3:14:21    
+BrFiltLo     Brother USB Mass-Stora Kernel        07.08.2006 1:33:45    
+BrFiltUp     Brother USB Mass-Stora Kernel        07.08.2006 1:33:45    
+Brserid      Brother MFC Serial Por Kernel        07.08.2006 1:33:50    
+BrSerWdm     Brother WDM Serial dri Kernel        07.08.2006 1:33:44    
+BrUsbMdm     Brother MFC USB Fax On Kernel        07.08.2006 1:33:43    
+BrUsbSer     Brother MFC USB Serial Kernel        09.08.2006 16:02:02   
+BTHMODEM     Bluetooth Serial Commu Kernel        14.07.2009 3:51:34    
+cdfs         CD/DVD File System Rea File System   14.07.2009 3:11:14    
+cdrom        Драйвер CD-ROM дисково Kernel        20.11.2010 11:38:09   
+circlass     Consumer IR Devices    Kernel        14.07.2009 3:51:17    
+CLFS         Общий журнал (CLFS)    Kernel        14.07.2009 3:11:10    
+CmBatt       Драйвер батареи с ACPI Kernel        14.07.2009 3:19:18    
+cmdide       cmdide                 Kernel        14.07.2009 3:11:18    
+CNG          CNG                    Kernel        14.07.2009 3:32:55    
+Compbatt     Драйвер для составной  Kernel        14.07.2009 3:19:18    
+CompositeBus Драйвер перечислителя  Kernel        20.11.2010 12:50:21   
+crcdisk      Crcdisk Filter Driver  Kernel        14.07.2009 3:46:05    
+DfsC         DFS Namespace Client D File System   20.11.2010 11:42:32   
+discache     System Attribute Cache Kernel        14.07.2009 3:24:04    
+Disk         Драйвер диска          Kernel        14.07.2009 3:11:28    
+drmkaud      Доверенные аудиодрайве Kernel        14.07.2009 3:50:57    
+DXGKrnl      LDDM Graphics Subsyste Kernel        20.11.2010 12:08:14   
+E1G60        Драйвер адаптера Intel Kernel        29.05.2008 3:14:11    
+ebdrv        Broadcom NetXtreme II  Kernel        31.12.2008 19:06:23   
+elxstor      elxstor                Kernel        04.02.2009 1:09:33    
+ErrDev       Microsoft Hardware Err Kernel        14.07.2009 3:19:18    
+exfat        exFAT File System Driv File System   14.07.2009 3:14:01    
+fastfat      FAT12/16/32 File Syste File System   14.07.2009 3:14:01    
+fdc          Floppy Disk Controller Kernel        14.07.2009 3:45:45    
+FileInfo     File Information FS Mi File System   14.07.2009 3:21:51    
+Filetrace    Filetrace              File System   14.07.2009 3:15:29    
+flpydisk     Floppy Disk Driver     Kernel        14.07.2009 3:45:45    
+FltMgr       Диспетчер фильтров     File System   14.07.2009 3:11:13    
+FsDepends    File System Dependency File System   14.07.2009 3:15:38    
+fvevol       Драйвер фильтра шифров Kernel        20.11.2010 11:40:22   
+gagp30kx     Microsoft Generic AGPv Kernel        14.07.2009 3:25:42    
+hcw85cir     Hauppauge Consumer Inf Kernel        11.05.2009 11:22:41   
+HdAudAddServ Драйвер функции UAA дл Kernel        20.11.2010 13:00:19   
+HDAudBus     Драйвер для шины UAA д Kernel        20.11.2010 12:59:28   
+HidBatt      HID UPS Battery Driver Kernel        14.07.2009 3:19:21    
+HidBth       Microsoft Bluetooth HI Kernel        14.07.2009 3:51:33    
+HidIr        Microsoft Infrared HID Kernel        14.07.2009 3:51:04    
+HidUsb       Драйвер класса HID Mic Kernel        20.11.2010 12:59:38   
+HpSAMD       HpSAMD                 Kernel        19.05.2009 3:42:46    
+HTTP         HTTP                   Kernel        20.11.2010 11:40:17   
+hwpolicy     Hardware Policy Driver Kernel        20.11.2010 11:37:35   
+i8042prt     Драйвер i8042-клавиату Kernel        14.07.2009 3:11:23    
+iaStorV      iaStorV                Kernel        11.06.2010 4:45:02    
+iirsp        iirsp                  Kernel        14.12.2005 0:48:01    
+intelide     intelide               Kernel        14.07.2009 3:11:19    
+intelppm     Драйвер Intel процессо Kernel        14.07.2009 3:11:03    
+IpFilterDriv Драйвер фильтра IP-тра Kernel        14.07.2009 3:54:28    
+IPMIDRV      IPMIDRV                Kernel        20.11.2010 12:19:14   
+IPNAT        IP Network Address Tra Kernel        14.07.2009 3:54:28    
+IRENUM       IR Bus Enumerator      Kernel        14.07.2009 3:53:27    
+isapnp       isapnp                 Kernel        14.07.2009 3:19:29    
+iScsiPrt     iScsiPort Driver       Kernel        20.11.2010 12:51:40   
+kbdclass     Драйвер класса клавиат Kernel        14.07.2009 3:11:15    
+kbdhid       Keyboard HID Driver    Kernel        20.11.2010 12:50:10   
+KSecDD       KSecDD                 Kernel        20.11.2010 11:38:54   
+KSecPkg      KSecPkg                Kernel        14.07.2009 3:34:00    
+lltdio       Link-Layer Topology Di Kernel        14.07.2009 3:53:18    
+LSI_FC       LSI_FC                 Kernel        10.12.2008 1:28:47    
+LSI_SAS      LSI_SAS                Kernel        19.05.2009 4:19:55    
+LSI_SAS2     LSI_SAS2               Kernel        19.05.2009 4:31:29    
+LSI_SCSI     LSI_SCSI               Kernel        17.04.2009 2:14:47    
+luafv        Виртуализация файла ко File System   14.07.2009 3:15:44    
+megasas      megasas                Kernel        19.05.2009 5:09:36    
+MegaSR       MegaSR                 Kernel        19.05.2009 5:25:17    
+Modem        Modem                  Kernel        14.07.2009 3:55:24    
+monitor      Microsoft Monitor Clas Kernel        14.07.2009 3:25:58    
+mouclass     Драйвер класса мыши    Kernel        14.07.2009 3:11:15    
+mouhid       Драйвер мыши HID       Kernel        14.07.2009 3:45:08    
+mountmgr     Диспетчер точек подклю Kernel        20.11.2010 11:38:09   
+mpio         mpio                   Kernel        20.11.2010 12:51:28   
+mpsdrv       Драйвер авторизации бр Kernel        14.07.2009 3:52:52    
+MRxDAV       Драйвер перенаправител File System   20.11.2010 11:42:41   
+mrxsmb       Оболочка и модуль мини File System   20.11.2010 11:42:40   
+mrxsmb10     Мини-перенаправитель S File System   20.11.2010 11:44:15   
+mrxsmb20     Мини-перенаправитель S File System   20.11.2010 11:42:47   
+msahci       msahci                 Kernel        20.11.2010 12:50:48   
+msdsm        msdsm                  Kernel        20.11.2010 12:51:42   
+Msfs         Msfs                   File System   14.07.2009 3:11:26    
+mshidkmdf    Pass-through HID to KM Kernel        14.07.2009 3:51:07    
+msisadrv     msisadrv               Kernel        14.07.2009 3:11:09    
+MSKSSRV      Представитель служб по Kernel        14.07.2009 3:45:08    
+MSPCLOCK     Посредник синхронизаци Kernel        14.07.2009 3:45:08    
+MSPQM        Представитель диспетче Kernel        14.07.2009 3:45:07    
+MsRPC        MsRPC                  Kernel        14.07.2009 3:11:59    
+mssmbios     Microsoft System Manag Kernel        14.07.2009 3:19:25    
+MSTEE        Преобразователь потоко Kernel        14.07.2009 3:45:08    
+MTConfig     Microsoft Input Config Kernel        14.07.2009 3:46:55    
+Mup          Mup                    File System   14.07.2009 3:14:14    
+NativeWifiP  NativeWiFi Filter      Kernel        14.07.2009 3:51:59    
+NDIS         Системный драйвер NDIS Kernel        20.11.2010 11:39:19   
+NdisCap      NDIS Capture LightWeig Kernel        14.07.2009 3:52:44    
+NdisTapi     NDIS-драйвер TAPI удал Kernel        14.07.2009 3:54:24    
+Ndisuio      NDIS Usermode I/O Prot Kernel        20.11.2010 13:06:36   
+NdisWan      NDIS-драйвер WAN удале Kernel        20.11.2010 13:07:48   
+NDProxy      NDIS Proxy             Kernel        20.11.2010 13:07:39   
+NetBIOS      NetBIOS Interface      File System   14.07.2009 3:53:54    
+NetBT        NetBT                  Kernel        20.11.2010 11:39:22   
+nfrd960      nfrd960                Kernel        07.06.2006 1:12:15    
+Npfs         Npfs                   File System   14.07.2009 3:11:31    
+nsiproxy     NSI proxy service driv Kernel        14.07.2009 3:12:08    
+Ntfs         Ntfs                   File System   20.11.2010 11:39:08   
+Null         Null                   Kernel        14.07.2009 3:11:12    
+nvraid       nvraid                 Kernel        20.03.2010 0:00:09    
+nvstor       nvstor                 Kernel        19.03.2010 23:51:52   
+nv_agp       NVIDIA nForce AGP Bus  Kernel        14.07.2009 3:25:50    
+ohci1394     1394 OHCI Compliant Ho Kernel        14.07.2009 3:51:29    
+Parport      Parallel port driver   Kernel        14.07.2009 3:45:34    
+partmgr      Диспетчер разделов     Kernel        20.11.2010 11:38:14   
+Parvdm       Parvdm                 Kernel        14.07.2009 3:45:29    
+pci          Драйвер PCI шины       Kernel        20.11.2010 11:37:57   
+pciide       pciide                 Kernel        14.07.2009 3:11:19    
+pcmcia       pcmcia                 Kernel        14.07.2009 3:19:29    
+pcw          Performance Counters f Kernel        14.07.2009 3:11:10    
+PEAUTH       PEAUTH                 Kernel        14.07.2009 4:35:44    
+PptpMiniport Мини-порт WAN (PPTP)   Kernel        14.07.2009 3:54:47    
+Processor    Processor Driver       Kernel        14.07.2009 3:11:03    
+Psched       Планировщик пакетов Qo Kernel        14.07.2009 3:53:58    
+ql2300       ql2300                 Kernel        23.01.2009 2:28:52    
+ql40xx       ql40xx                 Kernel        19.05.2009 5:17:31    
+QWAVEdrv     Драйвер QWAVE          Kernel        14.07.2009 3:54:12    
+RasAcd       Remote Access Auto Con Kernel        14.07.2009 3:54:40    
+RasAgileVpn  WAN Miniport (IKEv2)   Kernel        14.07.2009 3:55:00    
+Rasl2tp      Мини-порт WAN (L2TP)   Kernel        14.07.2009 3:54:33    
+RasPppoe     Драйвер PPPOE удаленно Kernel        14.07.2009 3:54:53    
+RasSstp      Мини-порт WAN (SSTP)   Kernel        14.07.2009 3:54:57    
+rdbss        Перенаправленная подси File System   20.11.2010 11:42:44   
+rdpbus       Remote Desktop Device  Kernel        14.07.2009 4:02:40    
+RDPCDD       RDPCDD                 Kernel        20.11.2010 13:22:19   
+RDPENCDD     RDP Encoder Mirror Dri Kernel        14.07.2009 4:01:39    
+RDPREFMP     Reflector Display Driv Kernel        14.07.2009 4:01:41    
+RDPWD        RDP Winstation Driver  Kernel        20.11.2010 13:22:23   
+rdyboost     ReadyBoost             Kernel        20.11.2010 12:00:07   
+rspndr       Link-Layer Topology Di Kernel        14.07.2009 3:53:20    
+sbp2port     sbp2port               Kernel        20.11.2010 11:38:08   
+scfilter     Драйвер фильтра смарт- Kernel        20.11.2010 12:24:55   
+secdrv       Security Driver        Kernel        13.09.2006 17:18:32   
+Serenum      Serenum Filter Driver  Kernel        14.07.2009 3:45:27    
+Serial       Serial Port Driver     Kernel        14.07.2009 3:45:33    
+sermouse     Serial Mouse Driver    Kernel        14.07.2009 3:45:08    
+sffdisk      SFF Storage Class Driv Kernel        14.07.2009 3:45:52    
+sffp_mmc     SFF Storage Protocol D Kernel        14.07.2009 3:45:52    
+sffp_sd      SFF Storage Protocol D Kernel        20.11.2010 12:50:48   
+sfloppy      High-Capacity Floppy D Kernel        14.07.2009 3:45:52    
+sisagp       SIS AGP Bus Filter     Kernel        14.07.2009 3:25:35    
+SiSRaid2     SiSRaid2               Kernel        24.09.2008 22:19:45   
+SiSRaid4     SiSRaid4               Kernel        02.10.2008 1:52:22    
+Smb          Протокол сообщений TCP Kernel        14.07.2009 3:53:39    
+spldr        Security Processor Loa Kernel        11.05.2009 20:13:47   
+srv          Драйвер сервера Server File System   20.11.2010 11:45:29   
+srv2         Драйвер сервера Server File System   20.11.2010 11:44:35   
+srvnet       srvnet                 File System   20.11.2010 11:44:27   
+stexstor     stexstor               Kernel        18.02.2009 2:03:21    
+swenum       Драйвер программной ши Kernel        14.07.2009 3:45:08    
+Tcpip        Драйвер протокола TCP/ Kernel        20.11.2010 11:41:36   
+TCPIP6       Microsoft IPv6 Protoco Kernel        20.11.2010 11:41:36   
+tcpipreg     TCP/IP Registry Compat Kernel        20.11.2010 13:07:13   
+TDPIPE       TDPIPE                 Kernel        20.11.2010 13:21:10   
+TDTCP        TDTCP                  Kernel        20.11.2010 13:21:10   
+tdx          Драйвер поддержки NetI Kernel        20.11.2010 11:39:17   
+TermDD       Драйвер устройства тер Kernel        20.11.2010 13:21:10   
+tssecsrv     Remote Desktop Service Kernel        20.11.2010 13:22:20   
+TsUsbFlt     TsUsbFlt               Kernel        20.11.2010 13:24:39   
+TsUsbGD      Remote Desktop Generic Kernel        20.11.2010 13:24:39   
+tunnel       Драйвер адаптера минип Kernel        20.11.2010 13:06:40   
+uagp35       Microsoft AGPv3.5 Filt Kernel        14.07.2009 3:25:40    
+udfs         udfs                   File System   20.11.2010 11:42:27   
+uliagpkx     Uli AGP Bus Filter     Kernel        14.07.2009 3:25:47    
+umbus        UMBus драйвер перечисл Kernel        20.11.2010 13:00:23   
+UmPass       Microsoft UMPass Drive Kernel        14.07.2009 3:51:35    
+usbccgp      Microsoft USB Generic  Kernel        20.11.2010 13:00:08   
+usbcir       eHome Infrared Receive Kernel        14.07.2009 3:51:18    
+usbehci      Драйвер минипорта Micr Kernel        20.11.2010 12:59:43   
+usbhub       Стандартный драйвер US Kernel        20.11.2010 13:00:34   
+usbohci      Драйвер минипорта Micr Kernel        14.07.2009 3:51:14    
+usbprint     Microsoft USB PRINTER  Kernel        14.07.2009 4:17:06    
+USBSTOR      USB Mass-Storage Drive Kernel        20.11.2010 12:59:48   
+usbuhci      Microsoft USB Universa Kernel        14.07.2009 3:51:10    
+vdrvroot     Драйвер перечислителя  Kernel        14.07.2009 3:46:19    
+vga          vga                    Kernel        14.07.2009 3:25:49    
+VgaSave      VgaSave                Kernel        14.07.2009 3:25:50    
+vhdmp        vhdmp                  Kernel        20.11.2010 12:51:49   
+viaagp       VIA AGP Bus Filter     Kernel        14.07.2009 3:25:39    
+ViaC7        VIA C7 Processor Drive Kernel        14.07.2009 3:11:03    
+viaide       viaide                 Kernel        14.07.2009 3:11:20    
+volmgr       Драйвер диспетчера том Kernel        20.11.2010 11:38:06   
+volmgrx      Диспетчер динамических Kernel        14.07.2009 3:11:41    
+volsnap      Тома запоминающих устр Kernel        20.11.2010 11:38:13   
+vsmraid      vsmraid                Kernel        31.01.2009 4:13:29    
+vwifibus     Драйвер шины Virtual W Kernel        14.07.2009 3:52:02    
+WacomPen     Wacom Serial Pen HID D Kernel        14.07.2009 3:46:53    
+WANARP       Драйвер удаленного дос Kernel        20.11.2010 13:07:45   
+Wanarpv6     Драйвер удаленного дос Kernel        20.11.2010 13:07:45   
+Wd           Wd                     Kernel        14.07.2009 3:11:31    
+Wdf01000     Kernel Mode Driver Fra Kernel        14.07.2009 3:11:36    
+WfpLwf       WFP Lightweight Filter Kernel        14.07.2009 3:53:51    
+WIMMount     WIMMount               File System   14.07.2009 3:17:57    
+WmiAcpi      Microsoft Windows Mana Kernel        14.07.2009 3:19:16    
+ws2ifsl      Драйвер WinSock IFS    Kernel        14.07.2009 3:55:01    
+WudfPf       User Mode Driver Frame Kernel        20.11.2010 12:58:55   

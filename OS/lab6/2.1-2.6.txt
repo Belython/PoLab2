@@ -1,0 +1,13 @@
+echo %computername%
+cd C:\Users\Aleksandr
+mkdir temp
+net share temp=C:\Users\Aleksandr\temp
+cd C:\LAB6
+cd . > 2.bat
+echo copy /z C:\Windows\Boot\Fonts.ttf C:\Users\Aleksandr\temp >> 2.bat
+schtaks /create /sc minute /tn copy /tr C:\LAB6\2.exe
+tasklist
+taskkill /IM copy.exe
+comp C:\Windows\Boot\Fonts.ttf C:\Users\Aleksandr\tempFonts.ttf
+copy /z C:\Windows\Boot\Fonts.ttf C:\Users\Aleksandr\temp
+comp C:\Windows\Boot\Fonts.ttf C:\Users\Aleksandr\tempFonts.ttf

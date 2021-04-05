@@ -1,0 +1,5 @@
+simulators/bin/
+simulators/obj/
+simulatorsTest/bin/
+simulatorsTest/obj/
+.vs/

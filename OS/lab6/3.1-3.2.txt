@@ -1,0 +1,9 @@
+cd C:\LAB6
+net start > listDervice.txt
+cd . > 3.bat
+echo net stop Dnscache >> 3.bat
+echo timeout /T 10 >> 3.bat
+echo net start > update.txt >> 3.bat
+cd . > 3.1.bat
+echo fc /B C:\LAB6\listServices.txt C:\LAB6\update.txt
+echo net start Dnscache >> 3.bat
